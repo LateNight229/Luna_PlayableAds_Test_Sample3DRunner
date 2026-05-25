@@ -1,0 +1,1 @@
+namespace Assets.MobileOptimizedWater.Scripts {}
